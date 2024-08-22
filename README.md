@@ -2,7 +2,7 @@ Hallo Zusammen
 
 schön, dass ihr da seid :)
 
-• Ich bin ein Informatik Student, der im ersten Semester ist!
+• Ich bin Student der Informatik im ersten Semester
 
 • Ich habe ein Jahr Erfahrung in der digitalen Spieleentwicklung
 
