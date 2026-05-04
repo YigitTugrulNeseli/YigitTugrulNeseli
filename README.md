@@ -2,13 +2,13 @@ Hallo Zusammen
 
 schön, dass ihr da seid :)
 
-• Ich bin Student der Informatik im fünften Semester
+• Student der Informatik im fünften Semester
 
-• Ich habe ein Jahr Erfahrung in der digitalen Spieleentwicklung
+• Ein Jahr Erfahrung in der digitalen Spieleentwicklung
 
-• Wir haben ein Projekt heißt « Rival Of Chaos »
+• Game Projekt heißt « Rival Of Chaos »
 
-• Die folgende Sprachen lernte ich 
+• Die folgende Sprachen habe Kenntnis: 
   Python, Java, C++, UML
 
 
