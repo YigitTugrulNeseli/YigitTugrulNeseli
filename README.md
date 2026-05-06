@@ -8,8 +8,7 @@ schön, dass ihr da seid :)
 
 • Game Projekt heißt « Rival Of Chaos »
 
-• Die folgende Sprachen habe Kenntnis: 
-  Python, Java, C++, UML
+
 
 
 
