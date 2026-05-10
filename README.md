@@ -1,12 +1,12 @@
-Hallo Zusammen
+Hello everyone, 
 
-schön, dass ihr da seid :)
+nice to have you here :)
 
-• Student der Informatik im fünften Semester
+• Computer Science student in the fifth semester
 
-• Ein Jahr Erfahrung in der digitalen Spieleentwicklung
+• One year of experience in digital game development
 
-• Game Projekt heißt « Rival Of Chaos »
+• Current game project: “Rival of Chaos”
 
 
 
